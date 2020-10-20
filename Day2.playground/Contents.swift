@@ -9,3 +9,5 @@ Please [commit your work frequently](https://www.russellgordon.ca/cs/source-cont
 import Cocoa
 
 var str = "Hello, playground"
+var age = 15
+var people = 5_0_0
