@@ -10,3 +10,13 @@ Please [commit your work frequently](https://www.russellgordon.ca/cs/source-cont
 import Cocoa
 
 var str = "Hello, playground"
+var str1 = """
+This goes
+over multiple
+lines
+"""
+var str2 = """
+This goes \
+over multiple \
+lines"
+"""
