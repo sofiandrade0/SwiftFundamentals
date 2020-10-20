@@ -9,4 +9,5 @@ Please [commit your work frequently](https://www.russellgordon.ca/cs/source-cont
 
 import Cocoa
 
-var str = "Hello, playground"
+var score = 85
+var str = "Your score was \(score)"
