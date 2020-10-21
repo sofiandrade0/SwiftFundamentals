@@ -10,3 +10,7 @@ Please [commit your work frequently](https://www.russellgordon.ca/cs/source-cont
 import Cocoa
 
 var str = "Hello, playground"
+let name: String = "Sofia"
+let year: Int = 2004
+let height: Double = 1.55
+let sofiaandrade: Bool = false
