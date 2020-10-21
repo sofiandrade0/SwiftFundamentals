@@ -11,3 +11,7 @@ import Cocoa
 
 var score = 85
 var str = "Your score was \(score)"
+ 
+var name = "sofia"
+var str2 = "My name is \(name)"
+
